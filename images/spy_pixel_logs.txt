@@ -1,0 +1,138 @@
+Email Opened:
+Timestamp: 2024-03-14 17:18:24
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+IP Address: {"country_code":"IN","country_name":"India","city":"Ghaziabad","postal":"201009","latitude":28.6667,"longitude":77.4333,"IPv4":"122.177.227.62","state":"Uttar Pradesh"}
+Email Opened:
+Timestamp: 2024-03-14 17:29:10
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+IP Address: {"country_code":"IN","country_name":"India","city":"Ghaziabad","postal":"201009","latitude":28.6667,"longitude":77.4333,"IPv4":"122.177.227.62","state":"Uttar Pradesh"}
+Email Opened:
+Timestamp: 2024-03-14 18:08:51
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+IP Address: {"country_code":"IN","country_name":"India","city":"Ghaziabad","postal":"201009","latitude":28.6667,"longitude":77.4333,"IPv4":"122.177.227.62","state":"Uttar Pradesh"}
+Email Opened:
+Timestamp: 2024-03-14 18:16:21
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+IP Address: {"country_code":"IN","country_name":"India","city":"Ghaziabad","postal":"201009","latitude":28.6667,"longitude":77.4333,"IPv4":"122.177.227.62","state":"Uttar Pradesh"}
+Error occurred: [WinError 2] The system cannot find the file specified: 'C:\\Users\\HP\\OneDrive\\Desktop\\spy-pixel-main\\images/pixel.png'
+Email Opened:
+Timestamp: 2024-03-14 18:17:11
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+IP Address: {"country_code":"IN","country_name":"India","city":"Ghaziabad","postal":"201009","latitude":28.6667,"longitude":77.4333,"IPv4":"122.177.227.62","state":"Uttar Pradesh"}
+Error occurred: [WinError 2] The system cannot find the file specified: 'C:\\Users\\HP\\OneDrive\\Desktop\\spy-pixel-main\\images/pixel.png'
+Email Opened:
+Timestamp: 2024-03-14 18:17:13
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+IP Address: {"country_code":"IN","country_name":"India","city":"Ghaziabad","postal":"201009","latitude":28.6667,"longitude":77.4333,"IPv4":"122.177.227.62","state":"Uttar Pradesh"}
+Error occurred: [WinError 2] The system cannot find the file specified: 'C:\\Users\\HP\\OneDrive\\Desktop\\spy-pixel-main\\images/pixel.png'
+Email Opened:
+Timestamp: 2024-03-14 18:19:27
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+IP Address: {"country_code":"IN","country_name":"India","city":"Ghaziabad","postal":"201009","latitude":28.6667,"longitude":77.4333,"IPv4":"122.177.227.62","state":"Uttar Pradesh"}
+Email Opened:
+Timestamp: 2024-03-14 18:19:46
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+IP Address: {"country_code":"IN","country_name":"India","city":"Ghaziabad","postal":"201009","latitude":28.6667,"longitude":77.4333,"IPv4":"122.177.227.62","state":"Uttar Pradesh"}
+Error occurred: HTTP Error 502: Bad Gateway
+Error occurred: HTTP Error 502: Bad Gateway
+Error occurred: HTTP Error 502: Bad Gateway
+Email Opened:
+Timestamp: 2024-03-14 18:39:53
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+IP Address: {"country_code":"IN","country_name":"India","city":"Ghaziabad","postal":"201009","latitude":28.6667,"longitude":77.4333,"IPv4":"122.177.227.62","state":"Uttar Pradesh"}
+Email Opened:
+Timestamp: 2024-03-14 18:40:10
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+IP Address: {"country_code":"IN","country_name":"India","city":"Ghaziabad","postal":"201009","latitude":28.6667,"longitude":77.4333,"IPv4":"122.177.227.62","state":"Uttar Pradesh"}
+Email Opened:
+Timestamp: 2024-03-14 18:40:16
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+IP Address: {"country_code":"IN","country_name":"India","city":"Ghaziabad","postal":"201009","latitude":28.6667,"longitude":77.4333,"IPv4":"122.177.227.62","state":"Uttar Pradesh"}
+Email Opened:
+Timestamp: 2024-03-14 18:40:36
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+IP Address: {"country_code":"IN","country_name":"India","city":"Ghaziabad","postal":"201009","latitude":28.6667,"longitude":77.4333,"IPv4":"122.177.227.62","state":"Uttar Pradesh"}
+Email Opened:
+Timestamp: 2024-03-14 18:43:51
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+IP Address: {"country_code":"IN","country_name":"India","city":"Ghaziabad","postal":"201009","latitude":28.6667,"longitude":77.4333,"IPv4":"122.177.227.62","state":"Uttar Pradesh"}
+Error occurred: Remote end closed connection without response
+Error occurred: HTTP Error 502: Bad Gateway
+Email Opened:
+Timestamp: 2024-03-14 18:48:59
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+IP Address: {"country_code":"IN","country_name":"India","city":"Ghaziabad","postal":"201009","latitude":28.6667,"longitude":77.4333,"IPv4":"122.177.227.62","state":"Uttar Pradesh"}
+Email Opened:
+Timestamp: 2024-03-14 18:53:38
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+IP Address: {"country_code":"IN","country_name":"India","city":"Ghaziabad","postal":"201009","latitude":28.6667,"longitude":77.4333,"IPv4":"122.177.227.62","state":"Uttar Pradesh"}
+Email Opened:
+Timestamp: 2024-03-14 18:53:47
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+IP Address: {"country_code":"IN","country_name":"India","city":"Ghaziabad","postal":"201009","latitude":28.6667,"longitude":77.4333,"IPv4":"122.177.227.62","state":"Uttar Pradesh"}
+Error occurred: Remote end closed connection without response
+Error occurred: Remote end closed connection without response
+Email Opened:
+Timestamp: 2024-03-14 19:05:50
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+IP Address: {"country_code":"IN","country_name":"India","city":"Ghaziabad","postal":"201009","latitude":28.6667,"longitude":77.4333,"IPv4":"122.177.227.62","state":"Uttar Pradesh"}
+Error occurred: HTTP Error 502: Bad Gateway
+Error occurred: HTTP Error 502: Bad Gateway
+Email Opened:
+Timestamp: 2024-03-15 05:54:41
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+IP Address: {"country_code":"IN","country_name":"India","city":null,"postal":null,"latitude":20,"longitude":77,"IPv4":"49.43.1.36","state":null}
+Email Opened:
+Timestamp: 2024-03-15 05:54:51
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+IP Address: {"country_code":"IN","country_name":"India","city":null,"postal":null,"latitude":20,"longitude":77,"IPv4":"49.43.1.36","state":null}
+Error occurred: HTTP Error 502: Bad Gateway
+Email Opened:
+Timestamp: 2024-03-15 11:56:55
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+IP Address: {"
+
+----------------------
+Email Opened:
+Timestamp: 2024-03-15 15:56:08
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+IP Address: {"country_code":"IN","country_name":"India","city":null,"postal":null,"latitude":20,"longitude":77,"IPv4":"49.43.1.150","state":null}
+{
+    "data": {
+        "ip": "127.0.0.1",
+        "hostname": null,
+        "type": "v4",
+        "range_type": {
+            "type": "LOOPBACK",
+            "description": "Internet host loopback address"
+        }
+    },
+    "timestamp": "2024-03-15 16:41:02",
+    "id_of_email_reciever": null
+}
+{
+    "data": {
+        "ip": "127.0.0.1",
+        "hostname": null,
+        "type": "v4",
+        "range_type": {
+            "type": "LOOPBACK",
+            "description": "Internet host loopback address"
+        }
+    },
+    "timestamp": "2024-03-15 16:42:14",
+    "id_of_email_reciever": null
+}
+{
+    "data": {
+        "ip": "127.0.0.1",
+        "hostname": null,
+        "type": "v4",
+        "range_type": {
+            "type": "LOOPBACK",
+            "description": "Internet host loopback address"
+        }
+    },
+    "timestamp": "2024-03-15 17:45:43",
+    "id_of_email_reciever": null
+}
