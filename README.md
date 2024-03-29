@@ -9,7 +9,7 @@ Steps to Deploy Flask on EC2 and activating the link.
 5. now run the Gunicorn server "gunicorn -b 0.0.0.0:8000 app:app "
 
 
-Steps to send Email 
+Steps to send Email.
 1.Make Lambda function and copy the code.  
 2.Copy the public link of EC2 instance and paste in img tag and the href link.
 3.Then click on send to send the email using AWS Lambda and AWS SES. 
