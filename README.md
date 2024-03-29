@@ -10,7 +10,7 @@ Steps to Deploy Flask on EC2 and activating the link.
 
 
 Steps to send Email.<br>
-1.Make Lambda function and copy the code.<br>  
+1.Make Lambda function and copy the code <br>  
 2.Copy the public link of EC2 instance and paste in img tag and the href link.<br>
 3.Then click on send to send the email using AWS Lambda and AWS SES. <br>
 4.Track of reciever's data is shown on EC2 logs and stored in images/spy_pixel_logs.txt <br>
